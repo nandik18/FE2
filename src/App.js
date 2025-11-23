@@ -8,7 +8,7 @@ import FilterManager from "./FilterManager";
 function App() {
   const [Htab,setHtab] = useState("null")
   const [tab, setTab] = useState("restaurants");
-  const [tab2,setTab2] = useState("Exp")
+  // const [tab2,setTab2] = useState("Exp")
 
   return (
     <div>
